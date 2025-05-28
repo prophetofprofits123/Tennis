@@ -1,0 +1,13 @@
+{
+  "name": "sports-frontend",
+  "version": "1.0.0",
+  "description": "Simple front-end for sports repo",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11"
+  }
+}
